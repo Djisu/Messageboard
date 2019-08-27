@@ -1,11 +1,13 @@
 # README
+This is a message board app coded in ruby on rails.
+It uses devise for login and authentication.
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version- Ruby 2.5.5p157
 
 * System dependencies
 
